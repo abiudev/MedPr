@@ -1,7 +1,7 @@
 import Header from "./components/Header.jsx";
 import { useState } from "react";
 import Searchbar from "./components/Searchbar.jsx";
-import Data from "./components/Symptomselector.jsx";
+import Data from "./components/SymptomSelector.jsx";
 import { Signs } from "./components/Symptoms.jsx";
 import { diseaseData } from "./components/Diseases.jsx";
 import Results from "./components/Results.jsx";
